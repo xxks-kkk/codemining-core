@@ -8,3 +8,6 @@ logs/
 *.out
 *.aux
 *.synctex.gz
+target/
+runParameters.txt
+.idea/
