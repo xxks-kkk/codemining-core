@@ -1,5 +1,10 @@
-/bin
-/target
-/target/
-/target/
-/target/
+*~
+*.pyc
+logs/
+.vscode/
+*.blg
+*.log
+*.bbl
+*.out
+*.aux
+*.synctex.gz
